@@ -12,7 +12,7 @@ class Simulator {
 		//look at setupInitialPeoplePositions() before writing this!
 		while(trainScanner.hasNextLine()) {
 		//get each line from the scanner
-			String s = peopleScanner.nextLine();
+			String s = trainScanner.nextLine();
 			if(s.length() == 0) {
 				//if the line is blank, we're done reading the train's initial positions
 				return;

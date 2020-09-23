@@ -29,7 +29,7 @@
             "name": "Debug (Launch)-Simulator<section-yourGMUUserName-p2_acc059f5>",
             "request": "launch",
             "mainClass": "Simulator",
-            "args": "./scenario2/trains-scenario2.txt ./scenario2/people-scenario2.txt C6 06:15",
+            "args": "./scenario1/trains-scenario1.txt ./scenario1/people-scenario1.txt C6 06:15",
             "projectName": "section-yourGMUUserName-p2_acc059f5"
         },
         {
