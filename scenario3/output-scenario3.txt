@@ -1,0 +1,675 @@
+>java PA2 ./scenario3/trains-scenario3.txt ./scenario3/people-scenario3.txt Car2 23:59
+00:00
+
+Trains:
+
+Tom o O___ _________ _________ _________
+  _][__|o| | Car1  | | Car5  | | Car6  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Em  o O___ _________ _________
+  _][__|o| | Car4  | | Car72 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Ed  o O___ _________ _________ _________
+  _][__|o| | Car3  | | Car80 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Jim o O___ _________ _________
+  _][__|o| | Car0  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car6
+Lilly on car Car3
+Sam on car Car9
+Hassan on car Car2
+Billy on car Car6
+Misa on car Car1
+Alex on car Car3
+Kim on car Car2
+
+Hit enter to continue
+05:11
+
+Trains:
+
+Tom o O___ _________ _________ _________
+  _][__|o| | Car1  | | Car5  | | Car6  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Em  o O___ _________ _________
+  _][__|o| | Car4  | | Car72 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Ed  o O___ _________ _________ _________
+  _][__|o| | Car3  | | Car80 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Jim o O___ _________ _________
+  _][__|o| | Car0  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car6
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car9
+Hassan on car Car0
+Billy on car Car6
+Misa on car Car1
+Alex on car Car3
+Kim on car Car2
+
+Hit enter to continue
+05:42
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________
+  _][__|o| | Car4  | | Car72 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Ed  o O___ _________ _________
+  _][__|o| | Car3  | | Car80 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | Car9  |
+-|_______|
+   o   o  
+
+ _________
+ | Car2  |
+-|_______|
+   o   o  
+
+ _________ _________
+ | Car5  | | Car6  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car6
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car9
+Hassan on car Car0
+Billy on car Car6
+Misa on car Car1
+Alex on car Car3
+Kim on car Car2
+
+Hit enter to continue
+07:51
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________
+  _][__|o| | Car4  | | Car72 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Ed  o O___ _________ _________
+  _][__|o| | Car3  | | Car80 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | Car9  |
+-|_______|
+   o   o  
+
+ _________
+ | Car2  |
+-|_______|
+   o   o  
+
+ _________ _________
+ | Car5  | | Car6  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car9
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car2
+
+Hit enter to continue
+11:05
+
+Trains:
+
+Tom o O___ _________ _________
+  _][__|o| | Car1  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________ _________
+  _][__|o| | Car3  | | Car80 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | Car5  | | Car6  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car9
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car2
+
+Hit enter to continue
+13:33
+
+Trains:
+
+Tom o O___ _________ _________
+  _][__|o| | Car1  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________ _________
+  _][__|o| | Car3  | | Car80 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | Car5  | | Car6  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car6
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+14:10
+
+Trains:
+
+Tom o O___ _________ _________
+  _][__|o| | Car1  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________ _________
+  _][__|o| | Car3  | | Car80 |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | Car5  | | Car6  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+15:28
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  | | Car5  | | Car6  |
+ |_______|-|_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car0  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | Car2  |
+-|_______|
+   o   o  
+
+ _________
+ | Car80 |
+-|_______|
+   o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+15:58
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________ _________ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  | | Car5  | | Car6  | | Car80 |
+ |_______|-|_______|-|_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___ _________ _________
+  _][__|o| | Car0  | | Car2  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+16:36
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________ _________ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  | | Car5  | | Car6  | | Car80 |
+ |_______|-|_______|-|_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | Car0  | | Car2  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car9
+Ashley on car Car5
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+19:11
+
+Trains:
+
+Tom o O___ _________
+  _][__|o| | Car1  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Em  o O___ _________ _________ _________ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  | | Car5  | | Car6  | | Car80 |
+ |_______|-|_______|-|_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | Car0  | | Car2  |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+Xi on car Car72
+Ashley on car Car9
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+20:57
+
+Trains:
+
+Tom o O___ _________ _________
+  _][__|o| | Car1  | | Car0  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+
+Decoupled Cars:
+
+ _________
+ | Car2  |
+-|_______|
+   o   o  
+
+ _________ _________ _________
+ | Car5  | | Car6  | | Car80 |
+-|_______|-|_______|-|_______|
+   o   o     o   o     o   o  
+
+
+
+People:
+Xi on car Car72
+Ashley on car Car9
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+22:42
+
+Trains:
+
+Tom o O___ _________ _________
+  _][__|o| | Car1  | | Car0  |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+
+Decoupled Cars:
+
+ _________
+ | Car2  |
+-|_______|
+   o   o  
+
+ _________ _________ _________
+ | Car5  | | Car6  | | Car80 |
+-|_______|-|_______|-|_______|
+   o   o     o   o     o   o  
+
+
+
+People:
+Xi on car Car4
+Ashley on car Car9
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+23:59
+
+Trains:
+
+Tom o O___ _________ _________ _________ _________ _________
+  _][__|o| | Car1  | | Car0  | | Car5  | | Car6  | | Car80 |
+ |_______|-|_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o     o   o  
+
+Em  o O___ _________ _________ _________
+  _][__|o| | Car4  | | Car72 | | Car9  |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+Ed  o O___ _________
+  _][__|o| | Car3  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+Jim o O___ _________
+  _][__|o| | Car2  |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+Xi on car Car4
+Ashley on car Car9
+Jon on car Car5
+Lilly on car Car3
+Sam on car Car72
+Hassan on car Car0
+Billy on car Car5
+Misa on car Car1
+Alex on car Car80
+Kim on car Car1
+
+Hit enter to continue
+No suspects!

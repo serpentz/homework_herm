@@ -1,0 +1,664 @@
+>>java PA2 ./scenario1/trains-scenario1.txt ./scenario1/people-scenario1.txt C0 23:59
+00:00
+
+Trains:
+
+T0  o O___ _________
+  _][__|o| | C2    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+T1  o O___ _________ _________ _________
+  _][__|o| | C0    | | C1    | | C3    |
+ |_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C3
+P0 on car C2
+P1 on car C1
+
+Hit enter to continue
+01:17
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C1    |
+-|_______|
+   o   o  
+
+ _________
+ | C2    |
+-|_______|
+   o   o  
+
+ _________
+ | C3    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C3
+P0 on car C2
+P1 on car C1
+
+Hit enter to continue
+04:37
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C1    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C2    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C3
+P0 on car C2
+P1 on car C1
+
+Hit enter to continue
+05:37
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C1    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C2    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C1
+P0 on car C2
+P1 on car C3
+
+Hit enter to continue
+05:49
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C1    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C2    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C3
+P0 on car C2
+P1 on car C3
+
+Hit enter to continue
+06:23
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C1    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C2    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C1
+P0 on car C2
+P1 on car C3
+
+Hit enter to continue
+06:40
+
+Trains:
+
+T0  o O___ _________
+  _][__|o| | C1    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C2    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C3    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C2
+P5 on car C1
+P0 on car C2
+P1 on car C3
+
+Hit enter to continue
+07:35
+
+Trains:
+
+T0  o O___ _________
+  _][__|o| | C1    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C2    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C3    |
+-|_______|
+   o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C3
+
+Hit enter to continue
+10:02
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C1    |
+-|_______|
+   o   o  
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C3
+
+Hit enter to continue
+11:53
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________
+  _][__|o| | C0    |
+ |_______|-|_______|
+  /O-O-O     o   o  
+
+
+Decoupled Cars:
+
+ _________
+ | C1    |
+-|_______|
+   o   o  
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C3
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+12:57
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C3
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+13:20
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C3
+
+Hit enter to continue
+14:41
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C0
+P5 on car C1
+P0 on car C1
+P1 on car C3
+
+Hit enter to continue
+15:34
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C1
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+16:52
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C1
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+17:21
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C2    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+P2 on car C2
+P3 on car C1
+P4 on car C0
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+17:21
+
+Trains:
+
+T0  o O___ _________ _________
+  _][__|o| | C2    | | C3    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C1
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+21:57
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C0
+P4 on car C1
+P5 on car C1
+P0 on car C0
+P1 on car C2
+
+Hit enter to continue
+22:19
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________
+  _][__|o| | C0    | | C1    |
+ |_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o  
+
+
+Decoupled Cars:
+
+ _________ _________
+ | C2    | | C3    |
+-|_______|-|_______|
+   o   o     o   o  
+
+
+
+People:
+P2 on car C2
+P3 on car C1
+P4 on car C1
+P5 on car C0
+P0 on car C0
+P1 on car C3
+
+Hit enter to continue
+23:59
+
+Trains:
+
+T0  o O___
+  _][__|o|
+ |_______|
+  /O-O-O  
+
+T1  o O___ _________ _________ _________ _________
+  _][__|o| | C0    | | C1    | | C2    | | C3    |
+ |_______|-|_______|-|_______|-|_______|-|_______|
+  /O-O-O     o   o     o   o     o   o     o   o  
+
+
+Decoupled Cars:
+
+
+
+People:
+P2 on car C2
+P3 on car C1
+P4 on car C1
+P5 on car C0
+P0 on car C0
+P1 on car C3
+
+Hit enter to continue
+Suspects:
+P5
+P0

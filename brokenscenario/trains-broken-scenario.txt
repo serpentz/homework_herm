@@ -1,0 +1,30 @@
+T0 C2
+T1 C0 C1 C3
+
+01:17
+T1 disconnect C3
+
+04:37
+T0 connect C1
+T0 connect C3
+
+06:40
+T1 connect C2
+T0 disconnect C3
+
+10:02
+T1 connect C3
+T0 disconnect C1
+T1 disconnect C2
+
+12:57
+T1 connect C1
+
+17:21
+T0 connect C2
+
+21:57
+T0 disconnect C2
+
+23:59
+T1 connect C2

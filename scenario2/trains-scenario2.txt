@@ -1,0 +1,47 @@
+T0 C3 C5
+T1 C0 C1 C2 C4 C8 C9
+T2 C6 C7
+
+01:12
+T0 disconnect C5
+T2 disconnect C6
+T1 disconnect C9
+
+06:04
+T0 connect C5
+T2 connect C6
+T2 connect C9
+
+09:04
+T0 disconnect C3
+
+11:32
+T2 connect C3
+T1 disconnect C0
+
+15:00
+T0 connect C0
+T2 disconnect C6
+
+18:11
+T2 connect C6
+T0 disconnect C0
+T2 disconnect C9
+
+18:33
+T2 connect C9
+T1 connect C0
+T1 disconnect C0
+
+19:53
+T0 connect C0
+T2 disconnect C7
+
+22:37
+T0 connect C7
+T2 disconnect C6
+T0 disconnect C9
+
+23:59
+T2 connect C9
+T1 connect C6
