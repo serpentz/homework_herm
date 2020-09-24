@@ -204,11 +204,6 @@ class Simulator {
 			}
 
 			String[] parts = line.split(" ");
-			int hour = time / 60;
-			int minute = time - (hour * 60);
-			if (hour == 12 && minute == 57) {
-				int i = 5;
-			}
 
 			Train t = trains.getValue(parts[0]);
 			// System.out.println(parts[0] + "|" + parts[1] + "|" + parts[2]);
@@ -217,6 +212,8 @@ class Simulator {
 
 			if (parts[1].equals("connect")) {
 				if (!decoupledCars.contains(c)) {
+					int hour = time / 60;
+					int minute = time - (hour * 60);
 					throw new RuntimeException(
 							"[" + hour + ":" + minute + "] Car " + c + " is not in the decoupledCars list");
 				}
