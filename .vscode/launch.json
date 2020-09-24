@@ -29,7 +29,7 @@
       "name": "Debug (Launch)-Simulator<homework_herm_a4704fef>",
       "request": "launch",
       "mainClass": "Simulator",
-      "args": "./scenario1/trains-scenario1.txt ./scenario1/people-scenario1.txt C0 23:59",
+      "args": "./scenario2/trains-scenario2.txt ./scenario1/people-scenario1.txt C0 23:59",
       "projectName": "homework_herm_a4704fef"
     },
     {

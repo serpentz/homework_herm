@@ -115,6 +115,7 @@ class Train implements Iterable<Car> {
 				current = current.getNext();
 			}
 			current.getPrevious().setNext(null);
+			tail = current.getPrevious();
 			current = null;
 		}
 		return c;
