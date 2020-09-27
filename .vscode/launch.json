@@ -1,57 +1,57 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
-  "version": "0.2.0",
-  "configurations": [
-    {
-      "type": "java",
-      "name": "Debug (Launch) - Current File",
-      "request": "launch",
-      "mainClass": "${file}"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Car<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "Car",
-      "projectName": "homework_herm_a4704fef"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Person<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "Person",
-      "projectName": "homework_herm_a4704fef"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Simulator<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "Simulator",
-      "args": "./scenario2/trains-scenario2.txt ./scenario1/people-scenario1.txt C0 23:59",
-      "projectName": "homework_herm_a4704fef"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-Train<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "Train",
-      "projectName": "homework_herm_a4704fef"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-UniqueList<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "UniqueList",
-      "projectName": "homework_herm_a4704fef"
-    },
-    {
-      "type": "java",
-      "name": "Debug (Launch)-UniquePairList<homework_herm_a4704fef>",
-      "request": "launch",
-      "mainClass": "UniquePairList",
-      "projectName": "homework_herm_a4704fef"
-    }
-  ]
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Car<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Person<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "Person",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Simulator<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "Simulator",
+            "args": "./scenario2/trains-scenario2.txt ./scenario2/people-scenario2.txt C8 23:59",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Train<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "Train",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniqueList<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "UniqueList",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UniquePairList<section-yourGMUUserName-p2_acc059f5>",
+            "request": "launch",
+            "mainClass": "UniquePairList",
+            "projectName": "section-yourGMUUserName-p2_acc059f5"
+        }
+    ]
 }

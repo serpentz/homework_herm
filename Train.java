@@ -102,7 +102,7 @@ class Train implements Iterable<Car> {
 			throw new RuntimeException("Can not disconnect a car that doesn't exist");
 		}
 
-		if (head == tail) {
+		if (head == tail && c.equals(head)&& c.equals(tail)) {
 			head = null;
 			tail = null;
 		} else if (c == tail) {
@@ -123,13 +123,10 @@ class Train implements Iterable<Car> {
 
 	void RemoveAtStart() {
 
-		if (head == tail) {
+		
 			head = null;
 			tail = null;
-		} else {
-			head = head.getNext();
-			head.setPrevious(null);
-		}
+		
 	}
 
 	void RemoveAtEnd() {

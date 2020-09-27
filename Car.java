@@ -60,6 +60,7 @@ class Car {
 			System.out.println("Yay 1");
 		}
 		
+		
 		if(c1.getNext().equals(c2) && c2.getPrevious().equals(c1)) {
 			System.out.println("Yay 2");
 		}

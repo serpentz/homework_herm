@@ -26,11 +26,25 @@ class Person {
 		// person remains in their current car). Returns
 		// true if the person was able to move.
 		// O(1)
-		if ((currentCar.getNext() != null && currentCar.getNext().equals(c))
-				|| currentCar.getPrevious() != null && currentCar.getPrevious().equals(c)) {
-			this.currentCar = c;
-			return true;
+		Car pastCar = currentCar.getPrevious();
+		Car nextCar = currentCar.getNext();
+		
+		while(pastCar != null){
+			if(pastCar.equals(c)){
+				this.currentCar =c;
+				return true;
+			}
+			pastCar = pastCar.getPrevious();
 		}
+
+		while(nextCar != null){
+			if(nextCar.equals(c)){
+				this.currentCar =c;
+				return true;
+			}
+			nextCar = nextCar.getNext();
+		}
+
 		return false;
 	}
 
@@ -54,6 +68,8 @@ class Person {
 
 		c1.setNext(c2);
 		c2.setPrevious(c1);
+		c2.setNext(c3);
+		c3.setPrevious(c2);
 
 		Person p1 = new Person("P1", c1);
 
@@ -61,7 +77,7 @@ class Person {
 			System.out.println("Yay 1");
 		}
 
-		if (p1.moveToCar(c2) && p1.getCurrentCar().equals(c2) && p1.moveToCar(c1) && p1.getCurrentCar().equals(c1)) {
+		if (p1.moveToCar(c3) && p1.getCurrentCar().equals(c3) && p1.moveToCar(c1) && p1.getCurrentCar().equals(c1)) {
 			System.out.println("Yay 2");
 		}
 

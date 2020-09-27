@@ -246,16 +246,17 @@ class Simulator {
 			Car c1 = cars.getValue(parts[1]);
 			Car c2 = cars.getValue(parts[2]);
 
+			int hour = time / 60;
+			int minute = time - (hour * 60);
+
 			if (!p.getCurrentCar().equals(c1)) {
-				int hour = time / 60;
-				int minute = time - (hour * 60);
 				throw new RuntimeException("[" + hour + ":" + minute + "] Person " + p + " cannot be in car " + c1
 						+ " according to the record");
 			}
 
-			if (!p.moveToCar(c2)) {
-				int hour = time / 60;
-				int minute = time - (hour * 60);
+			
+
+			if(!p.moveToCar(c2)) {
 				throw new RuntimeException("[" + hour + ":" + minute + "] Person " + p + " cannot move to car " + c2
 						+ " according to the record");
 			}
